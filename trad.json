@@ -1,0 +1,104 @@
+{
+  "french": {
+    "english": {
+      "hello": "bonjour"
+    },
+    "russian": {
+      "Привет": "bonjour"
+    },
+    "spanish": {
+      "hola": "bonjour"
+    },
+    "italian": {
+      "ciao": "bonjour"
+    },
+    "german": {
+      "hallo": "bonjour"
+    }
+  },
+  "english": {
+    "french": {
+      "bonjour": "hello"
+    },
+    "russian": {
+      "Привет": "hello"
+    },
+    "spanish": {
+      "hola": "hello"
+    },
+    "italian": {
+      "ciao": "hello"
+    },
+    "german": {
+      "hallo": "hello"
+    }
+  },
+  "russian": {
+    "french": {
+      "bonjour": "Привет"
+    },
+    "english": {
+      "hello": "Привет"
+    },
+    "spanish": {
+      "hola": "Привет"
+    },
+    "italian": {
+      "ciao": "Привет"
+    },
+    "german": {
+      "hallo": "Привет"
+    }
+  },
+  "spanish": {
+    "french": {
+      "bonjour": "hola"
+    },
+    "english": {
+      "hello": "hola"
+    },
+    "russian": {
+      "Привет": "hola"
+    },
+    "italian": {
+      "ciao": "hola"
+    },
+    "german": {
+      "hallo": "hola"
+    }
+  },
+  "italian": {
+    "french": {
+      "bonjour": "ciao"
+    },
+    "english": {
+      "hello": "ciao"
+    },
+    "russian": {
+      "Привет": "ciao"
+    },
+    "spanish": {
+      "hola": "ciao"
+    },
+    "german": {
+      "hallo": "ciao"
+    }
+  },
+  "german": {
+    "french": {
+      "bonjour": "hallo"
+    },
+    "english": {
+      "hello": "hallo"
+    },
+    "russian": {
+      "Привет": "hallo"
+    },
+    "spanish": {
+      "hola": "hallo"
+    },
+    "italian": {
+      "ciao": "hallo"
+    }
+  }
+}

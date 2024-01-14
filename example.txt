@@ -1,0 +1,4 @@
+This is how the file should look :
+The content between < > must be a single word.
+
+"<source_language>": "<translate_language>",
