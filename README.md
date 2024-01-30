@@ -1,6 +1,6 @@
 # Traduction
 ## Copyright et Droit d'auteur
-Tout les fichiers n'ont pas de protection donc vous pouvez les prendre, en revanche vous pouvez partager le GitHub et mettre une étoile ⭐
+Tout les fichiers ont UNE protection donc vous pouvez les utilisez **Uniquement**, en revanche vous pouvez partager le GitHub et mettre une étoile ⭐
 ## Coming Soon
 - [x] Langues
   - [x] Français
